@@ -1,0 +1,8 @@
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\bin\Debug\Cursoweb.CaracteristicasCSharp.exe.config
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\bin\Debug\Cursoweb.CaracteristicasCSharp.exe
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\bin\Debug\Cursoweb.CaracteristicasCSharp.pdb
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\obj\Debug\Cursoweb.CaracteristicasCSharp.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\obj\Debug\Cursoweb.CaracteristicasCSharp.exe
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\obj\Debug\Cursoweb.CaracteristicasCSharp.pdb
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\bin\Debug\EntityFramework.dll
+d:\documentos\visual studio 2013\Projects\Cursoweb.CaracteristicasCSharp\bin\Debug\EntityFramework.xml
